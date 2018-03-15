@@ -1,2 +1,3 @@
-add : add.cpp
-	g++ add.cpp -o add
+CC := g++
+bin/main : src/main.cpp
+	$(CC) src/main.cpp -o bin/main

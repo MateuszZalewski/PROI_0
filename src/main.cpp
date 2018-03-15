@@ -1,5 +1,5 @@
 /*
- * Name: add.cpp
+ * Name: main.cpp
  * Purpose: Dodawanie dwóch liczb
  * @author Mateusz Zalewski
  * @lab Wiktor Kuśmirek
